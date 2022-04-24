@@ -18,7 +18,7 @@ The models were run and then evaluated for performance and accuracy at predictin
 
 ### SMOTE Oversampling
 
-![SMOTE](smote)
+![SMOTE](smote.png)
 
 ### ClusterCentroids Undersampling
 
